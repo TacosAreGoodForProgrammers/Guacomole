@@ -136,7 +136,7 @@ if (!ptr) {
 2. **Ensure your code builds and passes tests** before pushing.  
 3. **Submit a pull request** with a detailed description.  
 4. **Be nice and review others' PRs!** 
-**If you contribute to a file, add your name and what you worked on in  before submitting a PR.**  
+**If you contribute to a file, add your name and what you worked on in [CONTRIBUTORS.md](../../CONTRIBUTORS.md) before submitting a PR.**  
 
 
 ---
