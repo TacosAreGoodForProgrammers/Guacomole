@@ -2,7 +2,9 @@
 |Github Username|What they worked worked on|
 |---------------|--------------------------|
 |TacosAregoodForProgrammers|started the project,initial file structure,lone maintainer|
-*If you contribute to a file, add your name and what you worked on in here before submitting a PR.**  
+|-|-|
+
+**If you contribute to a file, add your name and what you worked on in here before submitting a PR.**  
 # ✅ **Pull Request Checklist**  
 
 Before submitting a pull request (PR), ensure the following checklist is completed:  
